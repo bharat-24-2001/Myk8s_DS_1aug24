@@ -5,7 +5,7 @@ metadata:
  name: maha-pod
 spec:
  containers:
-   - name: maha-container
+   - name: my-container
      image: nginx
      ports:
      - containerPort: 80
